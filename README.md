@@ -1,5 +1,4 @@
 # HackathonBuddyFinder-TreeHacks2021
-[![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
 
 ### Problems
 - Organising team becomes inactive after some time
@@ -29,5 +28,7 @@ Research Article: https://zenodo.org/record/4498817#.YBz3B48zbPY
 
 
 **Design File:** https://www.figma.com/file/jlnll1FcORPjGVdng96NKY/Untitled?node-id=0%3A1
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
