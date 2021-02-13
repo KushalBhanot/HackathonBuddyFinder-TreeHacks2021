@@ -28,7 +28,6 @@ Research Article: https://zenodo.org/record/4498817#.YBz3B48zbPY
 - Speed networking
 
 
-
-
-
 **Design File:** https://www.figma.com/file/jlnll1FcORPjGVdng96NKY/Untitled?node-id=0%3A1
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
