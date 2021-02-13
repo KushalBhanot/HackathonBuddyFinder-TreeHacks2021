@@ -1,0 +1,6 @@
+framework module Pods_HackathonBuddyFinder {
+  umbrella header "Pods-HackathonBuddyFinder-umbrella.h"
+
+  export *
+  module * { export * }
+}
