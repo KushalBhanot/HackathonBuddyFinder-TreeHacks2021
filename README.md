@@ -1,4 +1,5 @@
 # HackathonBuddyFinder-TreeHacks2021
+[![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
 
 ### Problems
 - Organising team becomes inactive after some time
