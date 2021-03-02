@@ -1,4 +1,4 @@
-# HackathonBuddyFinder-TreeHacks2021
+# HackathonBuddyFinder
 
 ### Problems
 - Organising team becomes inactive after some time
