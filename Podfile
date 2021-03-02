@@ -7,4 +7,5 @@ target 'HackathonBuddyFinder' do
 
   # Pods for HackathonBuddyFinder
   pod 'paper-onboarding'
+  pod 'Firebase/Auth'
 end
